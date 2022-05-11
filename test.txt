@@ -8,4 +8,4 @@ print("zhou")
 print("kuan"
 print("love")
 print("jiang")
-print("hello biying")
+print("biying")
