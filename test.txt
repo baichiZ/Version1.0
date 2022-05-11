@@ -1,8 +1,8 @@
 zhou
 jiang
-1
+5
 2
-3
+0
 print("hello world")
 print("zhou")
 print("kuan"
