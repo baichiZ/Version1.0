@@ -6,6 +6,6 @@ jiang
 print("hello world")
 print("zhou")
 print("kuan"
-print("love love")
+print("love love lovr")
 print("jiang")
 print("biying")
