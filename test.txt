@@ -5,6 +5,7 @@ jiang
 3
 print("hello world")
 print("zhou")
+print("kuan"
 print("love")
 print("hello jiang")
 print("hello biying")
