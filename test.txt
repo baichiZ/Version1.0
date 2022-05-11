@@ -7,5 +7,5 @@ print("hello world")
 print("zhou")
 print("kuan"
 print("love")
-print("hello jiang")
+print("jiang")
 print("hello biying")
