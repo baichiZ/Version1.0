@@ -5,7 +5,7 @@ jiang
 1
 print("hello world")
 print("zhou")
-print("kuan"
+print("kuan")
 print("love")
 print("jiang")
 print("biying")
