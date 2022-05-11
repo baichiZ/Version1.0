@@ -2,7 +2,7 @@ zhou
 jiang
 5
 2
-0
+1
 print("hello world")
 print("zhou")
 print("kuan"
